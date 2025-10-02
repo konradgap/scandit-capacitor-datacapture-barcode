@@ -1,0 +1,6 @@
+scripts/
+src/
+.eslintrc
+rollup.config.js
+tsconfig.json
+tslint.json
